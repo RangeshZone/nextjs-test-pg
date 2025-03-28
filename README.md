@@ -1,24 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Demo App
 
-## Getting Started
+This is a [Next.js](https://nextjs.org) demo application which showcases the features of the framework, with code examples.
 
-First, run the development server:
+## For Educational Purposes Only
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Contains AI generated content, including code examples.**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Review all information and code before using in a production environment.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Running the Demo Locally
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+To run the demo locally, follow these steps:
+
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm run dev` to start the development server
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the demo
 
 ## Learn More
 
@@ -26,11 +23,12 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js GitHub Repository](https://github.com/vercel/next.js) - the source code for the framework.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contributions
 
-## Deploy on Vercel
+Contributions to the demo are welcome! Please submit a pull request with your changes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This code is [unlicensed](https://unlicense.org/). Go wild!
